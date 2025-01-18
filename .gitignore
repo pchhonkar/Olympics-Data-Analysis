@@ -1,0 +1,14 @@
+# Virtual Environment
+myenv/
+
+# Python Bytecode
+*.pyc
+__pycache__/
+
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# System Files
+.DS_Store
+*.swp
+
