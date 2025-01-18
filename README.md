@@ -33,37 +33,3 @@ Random Forest: For classification and feature importance.
 K-Means Clustering: To group countries or athletes by similar characteristics.
 XGBoost: To improve predictive accuracy in medal predictions.
 Decision Trees: For simple and interpretable classification tasks.
-Installation
-To run the project locally, follow these steps:
-
-Clone the repository:
-
-bash
-Copy
-Edit
-git clone https://github.com/pchhonkar/Olympics-Data-Analysis.git
-cd Olympics-Data-Analysis
-Create and activate a virtual environment:
-
-bash
-Copy
-Edit
-python3 -m venv myenv
-source myenv/bin/activate
-Install the required dependencies:
-
-bash
-Copy
-Edit
-pip install -r requirements.txt
-Run the Streamlit app:
-
-bash
-Copy
-Edit
-streamlit run app.py
-Open your browser at the provided URL to explore the dashboard.
-
-Data Source
-The data used in this project is sourced from publicly available Olympics datasets. Preprocessing steps have been applied to clean and structure the data for analysis and visualization.
-
